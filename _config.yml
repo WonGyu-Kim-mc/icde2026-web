@@ -1,0 +1,5 @@
+title: "ICDE 2026"
+description: "42nd IEEE International Conference on Data Engineering"
+baseurl: "" # 사이트가 루트에 배포되는 경우 비워두기
+url: "https://wongyu-kim-mc.github.io/icde2026" # GitHub Pages URL
+theme: jekyll-theme-minimal # 선택적 테마 설정 (예: 기본 테마)
